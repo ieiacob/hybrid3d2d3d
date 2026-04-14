@@ -1,0 +1,16 @@
+Patient_ID,3D_Liver_Dice,3D_Tumor_Dice,Best_Slice_Z,Best_Slice_Tumor_Dice
+volume-0.nii,0.9622,0.5261,152,0.9268
+volume-105.nii,0.9590,N/A,No Tumor,N/A
+volume-108.nii,0.6379,0.5347,173,0.8387
+volume-117.nii,0.9278,0.8263,123,0.8977
+volume-119.nii,0.9592,N/A,No Tumor,N/A
+volume-127.nii,0.9655,0.0000,221,0.0000
+volume-130.nii,0.9186,0.3151,166,0.4902
+volume-25.nii,0.9462,0.5769,182,0.6364
+volume-4.nii,0.8424,0.6323,156,0.9481
+volume-45.nii,0.7892,0.0000,16,0.0000
+volume-46.nii,0.7289,0.1682,22,0.5487
+volume-47.nii,0.9603,N/A,No Tumor,N/A
+volume-66.nii,0.9651,0.6291,145,0.8169
+volume-83.nii,0.9538,0.0000,199,0.0000
+volume-94.nii,0.9542,0.5860,191,0.9253
