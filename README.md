@@ -1,5 +1,5 @@
-# hybrid3d2d3d
-Repository for cascading 3d2d3d liver image segmentation
+# Medical Volumetric Segmentation
+Repository for cascading 3d liver image segmentation
 
 # Dataset
 - Here is one repository (out of many out there) of the dataset: https://github.com/Auggen21/LITS-Challenge
